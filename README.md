@@ -51,6 +51,8 @@ The simplest way is to use spring initializr for create spring boot app.
 
 ![](assets/maven.png)
 
+
+
 <dependencies>
 
 		<dependency>
@@ -80,6 +82,19 @@ The simplest way is to use spring initializr for create spring boot app.
 
 </dependencies>
 
+> pom.xml
+
+
+```sh
+spring.datasource.url=jdbc:mysql://localhost:3306/testdb
+
+spring.datasource.username=root
+
+spring.datasource.password=password
+
+spring.jpa.hibernate.ddl-auto=update
+```
+> application.properties
 ### 6. Api Test
 
 > go : https://www.postman.com
