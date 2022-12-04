@@ -17,6 +17,7 @@ Build a CRUD rest APIs using Spring boot, spring data JPA, Hibernate and MySQL d
 
 ### RestApi Architecture
 ![](https://www.altexsoft.com/media/2021/03/word-image.png)
+- [1]
 
 ### 2. Tech Stack
 
@@ -118,3 +119,6 @@ spring.jpa.hibernate.ddl-auto=update
 ![](assets/mysql.png)
 
 </details>
+
+### References
+[1] https://miro.medium.com/max/1400/1*WFBeioYOuRPdG84-PhNjtw.webp
