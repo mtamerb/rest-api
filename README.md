@@ -121,4 +121,4 @@ spring.jpa.hibernate.ddl-auto=update
 </details>
 
 ### References
-[1] https://miro.medium.com/max/1400/1*WFBeioYOuRPdG84-PhNjtw.webp
+[1] https://hemant-jain-42745.medium.com/restful-api-a7a19ca387d0
